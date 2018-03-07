@@ -1,0 +1,28 @@
+.main-header{
+    height: 30vh;
+    background: linear-gradient(to bottom right,#B10DC9, #85144b);
+    box-sizing: border-box;
+    padding-top: 60px;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 15px;
+    clip-path: polygon(0 0, 100% 0, 100% 20vh, 0 100%);
+    margin-bottom: 40px;
+}
+.pre-header{
+    display: block;
+    font-size: 15px;
+    letter-spacing: 12px;
+}
+.btn{
+    padding: 10px 30px;
+    text-decoration: none;
+    border-radius: 100px;
+}
+.btn-purple{
+    background-color: #85144b;
+    color:#fff;
+}
